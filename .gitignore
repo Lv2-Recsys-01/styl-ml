@@ -1,1 +1,6 @@
 /data
+/notebooks/log
+/notebooks/log_tensorboard/ 
+/notebooks/saved/
+/notebooks/EDA.ipynb
+/notebooks/dataset/
