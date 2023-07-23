@@ -16,3 +16,11 @@
   - feat-{모델명}
   - {사용자명}-EDA
   - ...
+
+  # Setting
+## How to set pre-commit config
+
+```bash
+pip install pre-commit
+pre-commit install
+```
